@@ -165,10 +165,10 @@
         "message": "Ядра"
     },
     "customCss": {
-        "message": "Custom CSS"
+        "message": "Свой CSS"
     },
     "customJs": {
-        "message": "Сustom JS"
+        "message": "Свой JS"
     },
     "cyan": {
         "message": "Сине-зелёный"
@@ -564,7 +564,7 @@
         "message": "Качество"
     },
     "ram": {
-        "message": "RAM"
+        "message": "ОЗУ"
     },
     "rateUs": {
         "message": "Оцените нас"
@@ -789,6 +789,6 @@
         "message": "Язык YouTube"
     },
     "youtubeLimitsVideoQualityTo1080pForH264Codec": {
-        "message": "YouTube ограничивает качетво видео до 1080p для кодека h.264"
+        "message": "YouTube ограничивает качеcтво видео до 1080p для кодека h.264"
     }
 }
